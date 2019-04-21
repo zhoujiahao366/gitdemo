@@ -4,3 +4,6 @@ git demo 2
 sex=man
 age=10
 name=zjh
+kaifa 
+qunimade
+
